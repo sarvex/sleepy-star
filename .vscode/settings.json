@@ -1,0 +1,14 @@
+{
+  "workbench.colorCustomizations": {
+    "sash.hoverBorder": "#94cb88",
+    "statusBar.background": "#74bb65",
+    "statusBar.border": "#74bb65",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#59a449",
+    "statusBarItem.remoteBackground": "#74bb65",
+    "statusBarItem.remoteForeground": "#15202b",
+    "tab.activeBorder": "#94cb88"
+  },
+  "peacock.color": "#74bb65",
+  "marquee.widgets.npm-stats.packageNames": ["sleepy-star"]
+}
